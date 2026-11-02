@@ -1,0 +1,17 @@
+{
+  "name": "Escrcpy",
+  "repository": "https://github.com/viarotel-org/escrcpy.git",
+  "ref": "v3.3.1",
+  "commit": "e35972b46e1ec6724815fd13d1ef1c5b1aa0272f",
+  "guards": [
+    "package.json",
+    "pnpm-workspace.yaml",
+    "turbo.json",
+    ".npmrc",
+    "packages/adbx/package.json",
+    "packages/electron-ipcx/package.json",
+    "packages/electron-setup/package.json",
+    "packages/shared/package.json",
+    "packages/unocss-preset-shades/package.json"
+  ]
+}
